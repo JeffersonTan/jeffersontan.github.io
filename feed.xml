@@ -145,13 +145,13 @@
 </div>
 <h1 id="mcetoc_1i2teo7fa68">What is Umami?</h1>
 <p>So, what is this Umami thing anyways? Umami is a FOSS (Free and Open-Source) and privacy-focused web analytics uhh.. thing. It helps web admins view visitor data and whatnot for their websites.</p>
-<p>If you'd like to learn more <span style="text-decoration: line-through;">(and get a better explanation)</span>, you can check out their website <a href="https://umami.is/" target="_blank" rel="noopener noreferrer">here</a>.</p>
+<p>If you'd like to learn more <span style="text-decoration: line-through;">(and get a better explanation)</span>, you can check out their website <a href="https://umami.is/" target="_blank"  class="extlink extlink-icon-1"  rel="noopener noreferrer nofollow">here</a>.</p>
 <h1 id="mcetoc_1i2teo7fa69">Why Umami?</h1>
 <blockquote>
 <p>Why not just use Google Analytics or CloudFlare like any other sane person?</p>
 </blockquote>
 <p>Some of you may wonder why I chose this over any other analytics solution like Google Analytics. It's because I care about my privacy and the privacy of visitors like you guys and gals who visit this website, plus, I'm not a big fan of Google anyways.</p>
-<p>Another reason is that I can self-host Umami on my home server. I'll probably show my server some other time, but being able to self-host means that I control the data instead of some big corp. If you're curious, you can check out the analytics data over <a href="https://stats.jeffersontan.xyz/share/Dq1Qz7b4KYzxvSAb/jeffersontan.xyz" target="_blank" rel="noopener noreferrer">here</a>.</p>
+<p>Another reason is that I can self-host Umami on my home server. I'll probably show my server some other time, but being able to self-host means that I control the data instead of some big corp. If you're curious, you can check out the analytics data over <a href="https://stats.jeffersontan.xyz/share/Dq1Qz7b4KYzxvSAb/jeffersontan.xyz" target="_blank"  class="extlink extlink-icon-1"  rel="noopener noreferrer nofollow">here</a>.</p>
 <h1 id="mcetoc_1i2tg2f5u8u">Conclusion</h1>
 <p>So in short, Umami is an analytics platform that's free and respects users' privacy. I chose it because I don't want to use Google and because I can host Umami myself on my own server.</p>
 <hr>
@@ -159,8 +159,8 @@
 <h1 id="mcetoc_1i2tf120m6h">Links and References</h1>
 <p>Here are all the important links in this page:</p>
 <ul>
-<li>Umami - <a href="https://umami.is/">https://umami.is/</a></li>
-<li>My analytics - <a href="https://stats.jeffersontan.xyz/share/Dq1Qz7b4KYzxvSAb/jeffersontan.xyz">https://stats.jeffersontan.xyz/share/Dq1Qz7b4KYzxvSAb/jeffersontan.xyz</a></li>
+<li>Umami - <a href="https://umami.is/"  class="extlink extlink-icon-1"  rel="nofollow">https://umami.is/</a></li>
+<li>My analytics - <a href="https://stats.jeffersontan.xyz/share/Dq1Qz7b4KYzxvSAb/jeffersontan.xyz"  class="extlink extlink-icon-1"  rel="nofollow">https://stats.jeffersontan.xyz/share/Dq1Qz7b4KYzxvSAb/jeffersontan.xyz</a></li>
 </ul>
             ]]>
         </content>
