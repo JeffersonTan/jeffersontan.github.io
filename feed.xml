@@ -3,12 +3,48 @@
     <title>Jefferson Tan&#x27;s Webpage</title>
     <link href="https://jeffersontan.xyz/feed.xml" rel="self" />
     <link href="https://jeffersontan.xyz" />
-    <updated>2024-07-18T17:18:33+07:00</updated>
+    <updated>2025-08-22T01:31:39+07:00</updated>
     <author>
         <name>Jefferson Tan</name>
     </author>
     <id>https://jeffersontan.xyz</id>
 
+    <entry>
+        <title>Life Update #1</title>
+        <author>
+            <name>Jefferson Tan</name>
+        </author>
+        <link href="https://jeffersontan.xyz/life-update-1/"/>
+        <id>https://jeffersontan.xyz/life-update-1/</id>
+
+        <updated>2025-08-16T01:54:58+07:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>I suppose this will be the first update for my blog post.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I suppose this will be the first update for my blog post.</p>
+<hr>
+<div class="post__toc">
+<h3>Table of Contents</h3>
+<ul>
+<li><a href="#mcetoc_1j36u30fc5">Where was I?</a></li>
+<li><a href="#mcetoc_1j36u9ivnq">Where am I now?</a></li>
+<li><a href="#mcetoc_1j36u9ivnr">Where will I be?</a></li>
+</ul>
+</div>
+<h1 id="mcetoc_1j36u30fc5">Where was I?</h1>
+<p>It's been a pretty long journey, I've done many things yet also feel like I haven't done enough. Had some ups and downs; But hey, I'm still breathing, so that's what matters... right?</p>
+<h1 id="mcetoc_1j36u9ivnq">Where am I now?</h1>
+<p>Currently kind of stuck in a dead-end job, but I'm also slowly trying to improve on myself. Work on my willpower and probably my mental state.</p>
+<h1 id="mcetoc_1j36u9ivnr">Where will I be?</h1>
+<p>To be honest, I have no clue where I'll end up. Hopefully somewhere better where I'll receive better support and better work-life balance, but I'm not too optimistic.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>BeamNG Linux Modding</title>
         <author>
@@ -58,13 +94,13 @@
 <pre class="language-bash"><code># Replace $USER with your username, of course
 /home/$USER/.local/share/Steam/steamapps/compatdata/284160/pfx/drive_c</code></pre>
 <p>In the drive_c folder, you'll notice a few familiar folders:</p>
-<figure class="post__image post__image--center" ><img loading="lazy" src="https://jeffersontan.xyz/media/posts/3/Screenshot-from-2024-07-18-14-13-44.png" alt="A picture of the folder structure inside the prefix." width="980" height="180" sizes="100vw" srcset="https://jeffersontan.xyz/media/posts/3/responsive/Screenshot-from-2024-07-18-14-13-44-xs.webp 300w ,https://jeffersontan.xyz/media/posts/3/responsive/Screenshot-from-2024-07-18-14-13-44-sm.webp 480w ,https://jeffersontan.xyz/media/posts/3/responsive/Screenshot-from-2024-07-18-14-13-44-md.webp 768w ,https://jeffersontan.xyz/media/posts/3/responsive/Screenshot-from-2024-07-18-14-13-44-lg.webp 1024w ,https://jeffersontan.xyz/media/posts/3/responsive/Screenshot-from-2024-07-18-14-13-44-xl.webp 1360w ,https://jeffersontan.xyz/media/posts/3/responsive/Screenshot-from-2024-07-18-14-13-44-2xl.webp 1600w">
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://jeffersontan.xyz/media/posts/3/Screenshot-from-2024-07-18-14-13-44.png" alt="A picture of the folder structure inside the prefix." width="980" height="180" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://jeffersontan.xyz/media/posts/3/responsive/Screenshot-from-2024-07-18-14-13-44-xs.webp 640w ,https://jeffersontan.xyz/media/posts/3/responsive/Screenshot-from-2024-07-18-14-13-44-sm.webp 768w ,https://jeffersontan.xyz/media/posts/3/responsive/Screenshot-from-2024-07-18-14-13-44-md.webp 1024w ,https://jeffersontan.xyz/media/posts/3/responsive/Screenshot-from-2024-07-18-14-13-44-lg.webp 1366w ,https://jeffersontan.xyz/media/posts/3/responsive/Screenshot-from-2024-07-18-14-13-44-xl.webp 1600w ,https://jeffersontan.xyz/media/posts/3/responsive/Screenshot-from-2024-07-18-14-13-44-2xl.webp 1920w">
 <figcaption >Windows system folder structure</figcaption>
 </figure>
 <p>Next, we'll navigate to this path:</p>
 <pre class="language-bash"><code>/home/$USER/.steam/steam/steamapps/compatdata/284160/pfx/drive_c/users/steamuser/AppData/Local/BeamNG.drive/</code></pre>
 <p>If you've played previous versions of BeamNG before, you'll notice a few folders like this:</p>
-<figure ><figure class="post__image post__image--center"><img loading="lazy"  src="https://jeffersontan.xyz/media/posts/3/Screenshot-from-2024-07-18-17-00-45.png" alt="Folders of different BeamNG versions" width="642" height="148" sizes="100vw" srcset="https://jeffersontan.xyz/media/posts/3/responsive/Screenshot-from-2024-07-18-17-00-45-xs.webp 300w ,https://jeffersontan.xyz/media/posts/3/responsive/Screenshot-from-2024-07-18-17-00-45-sm.webp 480w ,https://jeffersontan.xyz/media/posts/3/responsive/Screenshot-from-2024-07-18-17-00-45-md.webp 768w ,https://jeffersontan.xyz/media/posts/3/responsive/Screenshot-from-2024-07-18-17-00-45-lg.webp 1024w ,https://jeffersontan.xyz/media/posts/3/responsive/Screenshot-from-2024-07-18-17-00-45-xl.webp 1360w ,https://jeffersontan.xyz/media/posts/3/responsive/Screenshot-from-2024-07-18-17-00-45-2xl.webp 1600w"></figure>
+<figure ><figure class="post__image post__image--center"><img loading="lazy"  src="https://jeffersontan.xyz/media/posts/3/Screenshot-from-2024-07-18-17-00-45.png" alt="Folders of different BeamNG versions" width="642" height="148" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://jeffersontan.xyz/media/posts/3/responsive/Screenshot-from-2024-07-18-17-00-45-xs.webp 640w ,https://jeffersontan.xyz/media/posts/3/responsive/Screenshot-from-2024-07-18-17-00-45-sm.webp 768w ,https://jeffersontan.xyz/media/posts/3/responsive/Screenshot-from-2024-07-18-17-00-45-md.webp 1024w ,https://jeffersontan.xyz/media/posts/3/responsive/Screenshot-from-2024-07-18-17-00-45-lg.webp 1366w ,https://jeffersontan.xyz/media/posts/3/responsive/Screenshot-from-2024-07-18-17-00-45-xl.webp 1600w ,https://jeffersontan.xyz/media/posts/3/responsive/Screenshot-from-2024-07-18-17-00-45-2xl.webp 1920w"></figure>
 <figcaption >Folders named after the game's versions</figcaption>
 </figure>
 <p>Then, open the folder for the latest version of the game and that's where your mods folder resides. You can then simply copy-paste or drag and drop your mods in the folder.</p>
@@ -126,140 +162,6 @@
 <li>Umami - <a href="https://umami.is/">https://umami.is/</a></li>
 <li>My analytics - <a href="https://stats.jeffersontan.xyz/share/Dq1Qz7b4KYzxvSAb/jeffersontan.xyz">https://stats.jeffersontan.xyz/share/Dq1Qz7b4KYzxvSAb/jeffersontan.xyz</a></li>
 </ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>About Me</title>
-        <author>
-            <name>Jefferson Tan</name>
-        </author>
-        <link href="https://jeffersontan.xyz/home/"/>
-        <id>https://jeffersontan.xyz/home/</id>
-            <category term="Bio"/>
-
-        <updated>2024-04-29T01:09:20+07:00</updated>
-            <summary>
-                <![CDATA[
-                    Tech Since I was very young, I like to tinker with tech, and I'm eager to learn about how things work If I want something to work the way I want it to, I will try to find a way to make it work. Usually&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <hr class="separator separator--long-line" />
-
-  <div class="post__toc">
-    <h3>Contents</h3>
-    <ul>
-      <li><a href="#tech">Tech</a><ul><li><a href="#projects">Projects</a><ul><li><a href="#mechanics-guide-2019">Mechanic's Guide (2019)</a></li><li><a href="#gpu-detector-script-2024">GPU Detector Script (2024)</a></li><li><a href="#ffmpeg-accel-script-2024">FFmpeg Accel Script (2024)</a></li></ul></li></ul></li><li><a href="#games">Games</a></li>
-    </ul>
-  </div>
-  
-<hr class="separator separator--long-line" />
-
-    <h2 id="tech" class="align-center">
-      Tech
-    </h2>
-
-  <p class="align-center">
-    Since I was very young, I like to tinker with tech, and I'm eager to learn about how things work
-  </p>
-
-  <p class="align-center">
-    If I want something to work the way I want it to, I <strong>will</strong> try to find a way to make it work. Usually I would hunt forum posts or videos online for guides to do things, try it out, and see if things work. But sometimes... that can produce unintended results.
-  </p>
-
-    <figure class="post__image post__image--wide">
-      <a href="https://reddit.com/r/linuxmemes/comments/eh5x24/blue_screen_of_death_kernal_panic/" target="_blank">
-        <img loading="lazy" src="https://jeffersontan.xyz/media/posts/1/1emfdh1yqk741.png" height="1476" width="868" alt="Two captions with images under it. First one reads "How I started the decade:" with a picture of a Windows Blue Screen of Death, and "How I am finishing the decade:" with a picture of a Linux kernel panic."  sizes="100vw" srcset="https://jeffersontan.xyz/media/posts/1/responsive/1emfdh1yqk741-xs.webp 300w ,https://jeffersontan.xyz/media/posts/1/responsive/1emfdh1yqk741-sm.webp 480w ,https://jeffersontan.xyz/media/posts/1/responsive/1emfdh1yqk741-md.webp 768w ,https://jeffersontan.xyz/media/posts/1/responsive/1emfdh1yqk741-lg.webp 1024w ,https://jeffersontan.xyz/media/posts/1/responsive/1emfdh1yqk741-xl.webp 1360w ,https://jeffersontan.xyz/media/posts/1/responsive/1emfdh1yqk741-2xl.webp 1600w">
-      </a>
-      <figcaption>Learning things the hard way - Image credit: u/root_27 from r/linuxmemes on Reddit</figcaption>
-    </figure>
-
-  <p class="align-center">
-    I've probably broken stuff in countless ways by now, some examples are: Bricking a phone, accidentally wiping a drive, and so on, but that's all part of the learning process. If I didn't fail, I wouldn't have the knowledge and experience that I have today.
-  </p>
-
-    <h3 id="projects" class="align-center">
-      Projects
-    </h3>
-
-  <p class="align-center">
-    Below are a few projects that I have done in the past
-  </p>
-<hr class="separator separator--long-line" />
-
-    <h4 id="mechanics-guide-2019">
-      <a href="https://github.com/JeffersonTan/Mechanic-guide">
-      Mechanic's Guide (2019)
-      </a>
-    </h4>
-
-    <figure class="post__image post__image--center">
-      <a href="https://github.com/JeffersonTan/Mechanic-guide" target="_blank">
-        <img loading="lazy" src="https://jeffersontan.xyz/media/posts/1/Screenshot-from-2024-04-29-02-12-24.png" height="930" width="1917" alt=""  sizes="100vw" srcset="https://jeffersontan.xyz/media/posts/1/responsive/Screenshot-from-2024-04-29-02-12-24-xs.webp 300w ,https://jeffersontan.xyz/media/posts/1/responsive/Screenshot-from-2024-04-29-02-12-24-sm.webp 480w ,https://jeffersontan.xyz/media/posts/1/responsive/Screenshot-from-2024-04-29-02-12-24-md.webp 768w ,https://jeffersontan.xyz/media/posts/1/responsive/Screenshot-from-2024-04-29-02-12-24-lg.webp 1024w ,https://jeffersontan.xyz/media/posts/1/responsive/Screenshot-from-2024-04-29-02-12-24-xl.webp 1360w ,https://jeffersontan.xyz/media/posts/1/responsive/Screenshot-from-2024-04-29-02-12-24-2xl.webp 1600w">
-      </a>
-      <figcaption>Mechanic's Guide website</figcaption>
-    </figure>
-
-  <p class="align-center">
-    This is a website that I made for a high school project many years ago. It's coded using both HTML and CSS by hand, and since I used GitHub pages to host it, I learned a bit about code versioning.
-  </p>
-<hr class="separator separator--long-line" />
-
-    <h4 id="gpu-detector-script-2024">
-      <a href="https://github.com/Jefferson-tan/GPU-detector-script">
-      GPU Detector Script (2024)
-      </a>
-    </h4>
-
-    <figure class="post__image post__image--center">
-      <a href="https://github.com/Jefferson-tan/GPU-detector-script" target="_blank">
-        <img loading="lazy" src="https://jeffersontan.xyz/media/posts/1/317011511-249a30c6-4202-4994-a756-3a1e0ef99d5f.png" height="359" width="726" alt=""  sizes="100vw" srcset="https://jeffersontan.xyz/media/posts/1/responsive/317011511-249a30c6-4202-4994-a756-3a1e0ef99d5f-xs.webp 300w ,https://jeffersontan.xyz/media/posts/1/responsive/317011511-249a30c6-4202-4994-a756-3a1e0ef99d5f-sm.webp 480w ,https://jeffersontan.xyz/media/posts/1/responsive/317011511-249a30c6-4202-4994-a756-3a1e0ef99d5f-md.webp 768w ,https://jeffersontan.xyz/media/posts/1/responsive/317011511-249a30c6-4202-4994-a756-3a1e0ef99d5f-lg.webp 1024w ,https://jeffersontan.xyz/media/posts/1/responsive/317011511-249a30c6-4202-4994-a756-3a1e0ef99d5f-xl.webp 1360w ,https://jeffersontan.xyz/media/posts/1/responsive/317011511-249a30c6-4202-4994-a756-3a1e0ef99d5f-2xl.webp 1600w">
-      </a>
-      <figcaption>The script in action</figcaption>
-    </figure>
-
-  <p>
-    This was a small project I've made using Bash to learn more about Bash scripting and as a companion script for my other Bash project
-  </p>
-<hr class="separator separator--long-line" />
-
-    <h4 id="ffmpeg-accel-script-2024">
-      <a href="https://github.com/Jefferson-tan/ffmpeg-accel-script">
-      FFmpeg Accel Script (2024)
-      </a>
-    </h4>
-
-  <p class="align-center">
-    This is mainly a script that I wrote to help myself convert videos faster and with less effort, but anyone else are free to use it. Uses some code from my GPU detection script. It is currently a work in progress but the basics are there.
-  </p>
-<hr class="separator separator--dots" />
-
-    <h2 id="games" class="align-center">
-      Games
-    </h2>
-
-  <p class="align-center">
-    If I'm not tinkering with computers (either software or hardware), I usually play games on my computer. What kind of games you may ask? Mostly racing games as I really like cars, but I do play other genres occasionally.
-  </p>
-
-    <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://jeffersontan.xyz/media/posts/1/screenshot_2023-07-05_02-37-40-2.png" height="900" width="1440" alt="A modified fictional minivan from a game called BeamNG.drive. It in dark red and it also has large wheels, a roof box, custom bodykit, and window tints."  sizes="100vw" srcset="https://jeffersontan.xyz/media/posts/1/responsive/screenshot_2023-07-05_02-37-40-2-xs.webp 300w ,https://jeffersontan.xyz/media/posts/1/responsive/screenshot_2023-07-05_02-37-40-2-sm.webp 480w ,https://jeffersontan.xyz/media/posts/1/responsive/screenshot_2023-07-05_02-37-40-2-md.webp 768w ,https://jeffersontan.xyz/media/posts/1/responsive/screenshot_2023-07-05_02-37-40-2-lg.webp 1024w ,https://jeffersontan.xyz/media/posts/1/responsive/screenshot_2023-07-05_02-37-40-2-xl.webp 1360w ,https://jeffersontan.xyz/media/posts/1/responsive/screenshot_2023-07-05_02-37-40-2-2xl.webp 1600w">
-      <figcaption>Soliad Lansdale from BeamNG.Drive with my personal config</figcaption>
-    </figure>
-
-  <p class="align-center">
-    If you're interested, you can check out my (mostly dead) YouTube channel where I post game-related stuff.
-  </p>
-
-  <p class="align-center">
-    https://www.youtube.com/@jefferson-tan
-  </p>
-
-  <p>
-    
-  </p>
             ]]>
         </content>
     </entry>
